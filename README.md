@@ -275,9 +275,8 @@ The assignment contract intentionally omits authentication, authorization, emplo
 
 ## Additional documentation
 
-- [`openapi.yaml`](openapi.yaml) â€” complete API contract
-- [`DATA_MODEL.md`](DATA_MODEL.md) â€” MongoDB document shapes and field semantics
-- [`DECISIONS.md`](DECISIONS.md) â€” implementation trade-offs
-- [`REVIEW.md`](REVIEW.md) â€” review and verification notes
-- [`PROBLEM_STATEMENT.docx`](PROBLEM_STATEMENT.docx) â€” original assignment brief
-
+- [`openapi.yaml`](openapi.yaml) — complete API contract
+- [`DATA_MODEL.md`](DATA_MODEL.md) — MongoDB document shapes and field semantics
+- [`DECISIONS.md`](DECISIONS.md) — implementation trade-offs
+- [`REVIEW.md`](REVIEW.md) — review and verification notes
+- [`PROBLEM_STATEMENT.docx`](PROBLEM_STATEMENT.docx) — original assignment brief
